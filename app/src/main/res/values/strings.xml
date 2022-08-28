@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UberDriver</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="continue_txt">Continue</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="permision_requered">Location permission require</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="decline">Decline</string>
+    <string name="google_api_keys">AAAAyCFFX8A:APA91bHRCs3rq3meANOtX-yuUU39hiSS51C9NiOd6FT_uRn0RO6F1t6wC1XPOnhIWGZse-5GRFvKRw0dSqJlFN778d7xbwWq6i20Ub4OPlMJw3PXophUiC_OmfwejXjF7WMGsaMaWvRG</string>
+    <string name="token_not_found">Token not found</string>
+    <string name="decline_failed">Decline Failed</string>
+    <string name="decline_success">You have decline this request</string>
+    <string name="rider_not_found">Cannot find rider with key</string>
+    <string name="accept_failed">Accept Fails</string>
+    <string name="driver_arrived">Driver arrived</string>
+    <string name="your_driver_arrived">Your driver arrived!</string>
+    <string name="time_over">Time over</string>
+    <string name="complete_trip">Complete Trip</string>
+    <string name="complete_trip_failed">Complete Trip message send failed</string>
+    <string name="complete_trip_success">Thank you! You have complete trip</string>
+    <string name="service_unavailable_here">Service unavailable here!</string>
+</resources>

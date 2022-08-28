@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859551653824",
+    "project_id": "uber-c2462",
+    "storage_bucket": "uber-c2462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859551653824:android:e54807abc79608006ab225",
+        "android_client_info": {
+          "package_name": "com.palash.uberdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859551653824-60212ic84sljm1g051uv09nncg37h0mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PH_u421g0cPMU4dplJcOBYOhM3JdnIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859551653824-60212ic84sljm1g051uv09nncg37h0mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
